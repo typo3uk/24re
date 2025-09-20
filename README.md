@@ -1,16 +1,16 @@
-<h1>Condo Rentals</h1>
+<h1>24re Rentals</h1>
 
-Condo Rentals is a real estate listing marketplace for short let and long term homestay experiences inspired by Airbnb.
+24re Rentals is a real estate listing marketplace for short let and long term homestay experiences inspired by Airbnb.
 
-Condo Rentals projects a community built on a sharing economy. It is an online platform that allows property owners to list their place as holiday accommodation and allows travellers to find a place to stay while they are away from home.
+24re Rentals projects a community built on a sharing economy. It is an online platform that allows property owners to list their place as holiday accommodation and allows travellers to find a place to stay while they are away from home.
 
 On the website, homeowners can create a listing for their property and that listing will include a written description, photos and a list of amenities, as well as information about the local area.
 
 Travellers can use filters to search for holiday accommodation that’s right for them – such as the number of bedrooms, location and price.
 
-Condo Rentals is based on trust. It establishes this trust by asking both guests and hosts to review each other. This creates a rating system for all listings and ensures that, in most cases, everyone has a good experience.
+24re Rentals is based on trust. It establishes this trust by asking both guests and hosts to review each other. This creates a rating system for all listings and ensures that, in most cases, everyone has a good experience.
 
-Condo Rentals is a modern responsive simple property listing platform suitable for use by real estate agencies and independent realtors. With this project, you can easily create a property listing website. Some of the features built into this project include:
+24re Rentals is a modern responsive simple property listing platform suitable for use by real estate agencies and independent realtors. With this project, you can easily create a property listing website. Some of the features built into this project include:
 
 <ul>
   <li>Property listing</li>
@@ -29,12 +29,12 @@ This project was developed using React, NextJS, TypeScript, Tailwind CSS, Prisma
 
 <h2>Screenshots</h2>
 
-![proj10-condo-rentals](https://github.com/SammyLeths/condo-rentals/assets/64320618/0c100412-9bf6-4714-8e8a-905ccd6ed267)
+![proj10-24re-rentals](https://github.com/SammyLeths/24re-rentals/assets/64320618/0c100412-9bf6-4714-8e8a-905ccd6ed267)
 
 <h2>Links</h2>
 
 <ul>
-  <li>Demo: <a href="https://condo-rentals.vercel.app/" target="_blank">https://condo-rentals.vercel.app/</a></li>
+  <li>Demo: <a href="https://24re-rentals.vercel.app/" target="_blank">https://24re-rentals.vercel.app/</a></li>
 </ul>
 
 <h2>Tech Stack</h2>
