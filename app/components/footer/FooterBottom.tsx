@@ -10,7 +10,7 @@ const FooterBottom = () => {
       <div className="flex flex-row pb-10 lg:py-10 text-sm md:text-base border-b border-gray-300">
         <div className="flex flex-col-reverse lg:flex-row gap-5 w-full items-start md:items-center justify-between">
           <div className="flex gap-1 lg:gap-7 flex-col lg:flex-row items-start md:items-center">
-            <span>&copy; 2023 Condo Rentals, Inc.</span>
+            <span>&copy; 2025 24re Rentals, Inc.</span>
             <ul className="flex gap-5 md:gap-7 items-start">
               <li className="cursor-pointer hover:underline">Terms</li>
               <li className="cursor-pointer hover:underline">Sitemap</li>

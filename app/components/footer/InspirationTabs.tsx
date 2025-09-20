@@ -36,7 +36,7 @@ const popularInspirations = [
   },
   {
     location: "Tucson",
-    type: "Condo rentals",
+    type: "24re rentals",
   },
   {
     location: "Jasper",
@@ -72,7 +72,7 @@ const popularInspirations = [
   },
   {
     location: "Santa Barbara",
-    type: "Condo rentals",
+    type: "24re rentals",
   },
   {
     location: "Sonoma",
@@ -220,7 +220,7 @@ export default function InspirationTabs(): JSX.Element {
               basicActive === "tab9" ? "font-bold" : ""
             }`}
           >
-            Condo rentals friendly apartments
+            24re rentals friendly apartments
           </span>
         </TETabsItem>
       </TETabs>
