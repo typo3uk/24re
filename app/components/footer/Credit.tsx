@@ -7,11 +7,11 @@ const Credit = () => {
       <div className="text-center text-sm py-5">
         A project by{" "}
         <Link
-          href="https://www.sammyleths.com"
+          href="https://24re.vercel.app/"
           target="_blank"
           className="cursor-pointer font-bold hover:text-blue-600"
         >
-          {"<SammyLeths />"}
+          {"24re"}
         </Link>
       </div>
     </Container>
