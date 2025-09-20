@@ -7,7 +7,7 @@ const footerNav = [
     name: 'Support',
     links: [
       { name: 'Help Center', url: '#' },
-      { name: '24reCover', url: '#' },
+      { name: 'CondoCover', url: '#' },
       { name: 'Anti-discrimination', url: '#' },
       { name: 'Disability support', url: '#' },
       { name: 'Cancellation options', url: '#' },
@@ -19,23 +19,23 @@ const footerNav = [
     name: 'Hosting',
     links: [
       { name: 'Short let your home', url: '#' },
-      { name: '24reCover for Hosts', url: '#' },
+      { name: 'CondoCover for Hosts', url: '#' },
       { name: 'Hosting resources', url: '#' },
       { name: 'Community forum', url: '#' },
       { name: 'Hosting responsibly', url: '#' },
-      { name: 'Rental-friendly 24re', url: '#' },
+      { name: 'Rental-friendly condos', url: '#' },
     ],
   },
   {
     id: 'cr1',
-    name: '24re Rentals',
+    name: 'Condo Rentals',
     links: [
       { name: 'Newsroom', url: '#' },
       { name: 'New features', url: '#' },
       { name: 'Careers', url: '#' },
       { name: 'Investors', url: '#' },
       { name: 'Gift cards', url: '#' },
-      { name: '24re.vercel.app emergency stays', url: '#' },
+      { name: 'Condorentals.com emergency stays', url: '#' },
     ],
   },
 ];

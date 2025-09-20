@@ -11,8 +11,8 @@ import SearchModal from "./components/modals/SearchModal";
 import Footer from "./components/footer/Footer";
 
 export const metadata = {
-  title: "24 RE IF",
-  description: "24 RE IF Rentals Real Estate Listings",
+  title: "Condo Rentals",
+  description: "Condo Rentals Real Estate Listings",
 };
 
 const font = Nunito({
