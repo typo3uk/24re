@@ -35,7 +35,7 @@ const footerNav = [
       { name: 'Careers', url: '#' },
       { name: 'Investors', url: '#' },
       { name: 'Gift cards', url: '#' },
-      { name: '24rerentals.com emergency stays', url: '#' },
+      { name: '24re.vercel.app emergency stays', url: '#' },
     ],
   },
 ];
